@@ -1,4 +1,4 @@
-# Water Delivery Service
+# DripDrop - A Water Delivery Service
 
 ## Overview
 The **Water Delivery Service** is a simple Java Swing-based GUI application that allows users to log in, browse water tank purchase options, add items to their cart, and complete purchases.
